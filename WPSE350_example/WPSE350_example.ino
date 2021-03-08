@@ -1,18 +1,14 @@
 /*
   Analog input, serial output
-
   Reads an analog input pin, scales the reading to correspond to the voltage
   at the input of a voltage conversion module, prints the results to the Serial Monitor.
-
   created 29 Dec. 2008
   modified 9 Apr 2012
   by Tom Igoe
   modified 8 March 2021
   by Midas Gossye (Whadda/Velleman)
-
   Based on Arduino AnalogInOutSerial code
   This example code is in the public domain.
-
   http://www.arduino.cc/en/Tutorial/AnalogInOutSerial
 */
 
