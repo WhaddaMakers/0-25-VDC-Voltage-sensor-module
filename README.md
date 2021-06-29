@@ -1,5 +1,5 @@
-# WPSE350 0-25 V DC voltage sensor module
-This example shows how you can use the Whadda WPSE350 0-25 V DC voltage sensor module with an Arduino® compatible board to read voltages and print them in the serial monitor.
+# 0-25 V DC voltage sensor module
+This example code shows you how you can use the Whadda 0-25 V DC voltage sensor module (WPSE350) with an Arduino® compatible board to read voltages and print them in the serial monitor.
 
 ## Library dependencies
 * None
@@ -8,7 +8,7 @@ This example shows how you can use the Whadda WPSE350 0-25 V DC voltage sensor m
 ![](./wiring_diagram.jpg)
 
 ## Additional information
-  For more information about the Whadda WPSE350 0-25 V DC voltage sensor module, check the manual available at [whadda.com](https://whadda.com)
+  For more information about the Whadda 0-25 V DC voltage sensor module, check out the manual available at [whadda.com](https://whadda.com/WPSE350)
 
 ## Acknowledgments
 Based on Arduino AnalogInOutSerial code
